@@ -8,7 +8,7 @@
 # Site settings
 title: James C. Purcell
 email: JamesCPurcell@Outlook.com
-description:  A software / hardware IT professional with more than ten years of experience in the information systems, technical service, and financial industries. Acknowledged strengths in technical / artistic web design, IT networking systems, and strong software development. A detail oriented and change-hardy problem solver who learns quickly, develops close professional relationships, and possesses a strong desire to translate technical language into common and understandable terms. 
+description:  A software / hardware IT professional with more than ten years of experience in the information systems, technical service, and financial industries. Acknowledged strengths in technical / artistic web design, IT networking systems, and strong software development. A detail oriented and change-hardy problem solver who learns quickly, develops close professional relationships, and possesses a strong desire to translate technical language into common terms. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamescpurcell.github.io" # the base hostname & protocol for your site
 twitter_username: jamescpurcell
