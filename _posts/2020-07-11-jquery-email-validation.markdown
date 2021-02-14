@@ -31,7 +31,7 @@ $.validator.addMethod(
 );
 {% endhighlight %}
 
-Then in your '''options.rules''' section add this:
+Then in your ```options.rules``` section add this:
 
 {% highlight javascript %}
 options.rules = {
