@@ -14,7 +14,10 @@ But also you can format the order of the different pieces of information shown o
 
 The output template would be an argument that you can use in the ```appsettings.json``` 
 and it would be used to show exactly what formats the logline from left to right.
+
+
 [Click here for more info on output templates](https://nblumhardt.com/2014/05/serilog-output-template-formatting-changes)
+
 
 Also within the arguments block, you can set up a couple of different themes.
 The one I enjoy is the ```AnsiConsoleTheme``` it showcases the colors red for error and yellow for warning really well.
@@ -23,7 +26,9 @@ The one I enjoy is the ```AnsiConsoleTheme``` it showcases the colors red for er
 "theme":"Serilog.Sinks.SystemConsole.Themes.AnsiConsoleTheme::Code, Serilog.Sinks.Console"
 {% endhighlight %}
 
+
 [Click here for more info on console themes](https://nblumhardt.com/2017/06/ansi-console)
+
 
 So with both of these settings, you can combine them in a Serilog JSON object to output to a console.
 
