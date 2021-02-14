@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Experienced Software Developer with a demonstrated history of working in the banking industry. Skilled in C#, Javascript, Docker, Visual Studio, and Azure DevOps, and Kubernetes. Strong engineering professional with a BA focused in Graphic Design from the University of Alabama at Birmingham.
